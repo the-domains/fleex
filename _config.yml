@@ -1,0 +1,28 @@
+name: Fleex
+favicon: null
+layout_spectrum: 0.07645481708459556
+typography_spectrum: 0.45011283457279205
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3918266682885587
+  lightness: 0.5516315679997206
+  saturation: 0.8251068228855729
+  rhythmicContrast: 0.7725484920665622
+purpose: []
